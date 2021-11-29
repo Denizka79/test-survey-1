@@ -19,12 +19,23 @@ h1 {
     text-align: center;
 }
 
-.personal-details {
+.section {
     border: 1px solid #999;
     padding: 10px;
     margin-bottom: 10px;
 }
 
-.input {
+.text-input, .radiobutton, .calendar, .textarea {
     margin-bottom: 20px;
+}
+
+.submitbutton {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+button {
+    padding: 5px;
 }
