@@ -1,6 +1,7 @@
 body {
     background-color: lightgoldenrodyellow;
     font-family: 'Anaheim', sans-serif;
+    font-size: 1.2em;
 }
 
 .container {
@@ -25,5 +26,5 @@ h1 {
 }
 
 .input {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
